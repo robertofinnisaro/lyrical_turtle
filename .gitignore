@@ -1,0 +1,13 @@
+# colcon
+build/
+install/
+log/
+# runtime knowledge bases (created in the directory you launch from)
+predator-kb.xml
+prey-kb.json
+# python
+__pycache__/
+*.pyc
+# local only
+*.pdf
+videos/
